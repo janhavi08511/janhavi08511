@@ -211,11 +211,6 @@ Corporate website developed for export business operations.
 
 ---
 
-## 📈 Contribution Graph
-
-[![Janhavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janhavi08511&theme=tokyo-night)](https://github.com/janhavi08511)
-
----
 
 ## 🎯 Current Focus
 
